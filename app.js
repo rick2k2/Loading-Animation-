@@ -74,3 +74,4 @@ gsap.fromTo(
     borderRadius: 0,
   }
 );
+// By Rick saha
